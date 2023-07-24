@@ -1,4 +1,6 @@
 import logging
+import os
+from dotenv import load_dotenv
 import time
 from http.server import HTTPServer
 from jockmkt_sdk.client import Client
@@ -15,9 +17,9 @@ from typing import List
 import webbrowser
 import pyfiglet
 
-from strategies.live.dump_late import DumpLateConfig, DumpLate
-from strategies.live.short_early import ShortEarlyConfig, ShortEarly
-from strategies.ipo.heat_check import HeatCheckConfig, HeatCheck, HeatCheckStrategies
+
+# Import SentimentMarketMaker and SentimentConfig from your strategy module
+from strategies.live.sentiment import SentimentMarketMaker, SentimentConfig
 
 
 def trade_strategy(strategy: Strategy, counter=EnvOrderCt()):
@@ -113,20 +115,17 @@ def trade_multiple_strategies(strategy_list: List[Strategy]):
 
 if __name__ == "__main__":
     print(pyfiglet.figlet_format(text='JockBot', font='univers'))
-    # # set your keys here or in your system environment variables
-    # os.environ['secret_key'] = 'enter_your_secret_key_here'
-    # os.environ['api_key'] = 'enter_your_api_key_here'
+    load_dotenv()
+    # set your keys here or in your system environment variables
+    secretKey = os.environ['secret_key']
+    apiKey = os.environ['api_key']
 
     # initialize and customize your strategy config
-    my_strat_config1 = DumpLateConfig()
-    # my_strat_config1.strategy = 1
-    my_strat_config1.log_level = logging.DEBUG
-    my_strat_config1.order_size = 1
-    my_strat_config1.event_id = 'evt_640ff14380a6b6c64d2fa277ea804b76'
-    my_strat_config1.web_popup = True
+    my_strat_config = SentimentConfig()
+    my_strat_config.log_level = logging.DEBUG
+    my_strat_config.order_size = 0
+    my_strat_config.event_id = 'evt_64acd3c2745cad6759360b1e434789'
+    my_strat_config.web_popup = True
 
-    cf2 = ShortEarlyConfig()
-    cf2.order_size = 1
-    cf2.event_id = 'evt_640ff14380a6b6c64d2fa277ea804b76'
-
-    trade_multiple_strategies([DumpLate(my_strat_config1), ShortEarly(cf2)])
+    # Run the SentimentMarketMaker strategy
+    trade_strategy(SentimentMarketMaker(my_strat_config))

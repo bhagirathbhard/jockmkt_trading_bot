@@ -1,0 +1,833 @@
+[
+  {
+    "id": "95f59063b19298d955adfbad32973599",
+    "sport_key": "cricket_t20_blast",
+    "sport_title": "T20 Blast",
+    "commence_time": "2023-07-15T13:30:00Z",
+    "home_team": "Somerset",
+    "away_team": "Surrey",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-07-15T16:56:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:49Z",
+            "outcomes": [
+              { "name": "Somerset", "price": 1.95 },
+              { "name": "Surrey", "price": 1.8 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3fb5a4184de7ac975e3b6318a4f87755",
+    "sport_key": "soccer_sweden_superettan",
+    "sport_title": "Superettan - Sweden",
+    "commence_time": "2023-07-15T15:00:47Z",
+    "home_team": "Östersunds FK",
+    "away_team": "Landskrona BoIS",
+    "bookmakers": [
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-07-15T16:55:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:55:00Z",
+            "outcomes": [
+              { "name": "Landskrona BoIS", "price": 46.0 },
+              { "name": "Östersunds FK", "price": 1.06 },
+              { "name": "Draw", "price": 11.0 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-07-15T16:55:16Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:55:16Z",
+            "outcomes": [
+              { "name": "Landskrona BoIS", "price": 86.0 },
+              { "name": "Östersunds FK", "price": 1.0 },
+              { "name": "Draw", "price": 6.0 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-07-15T16:48:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:48:32Z",
+            "outcomes": [
+              { "name": "Landskrona BoIS", "price": 21.0 },
+              { "name": "Östersunds FK", "price": 1.0 },
+              { "name": "Draw", "price": 16.0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b525bda305383207e2341d7afd5a8189",
+    "sport_key": "soccer_norway_eliteserien",
+    "sport_title": "Eliteserien - Norway",
+    "commence_time": "2023-07-15T16:00:04Z",
+    "home_team": "Vålerenga",
+    "away_team": "Molde",
+    "bookmakers": [
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-07-15T16:56:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:49Z",
+            "outcomes": [
+              { "name": "Molde", "price": 1.01 },
+              { "name": "Vålerenga", "price": 36.0 },
+              { "name": "Draw", "price": 13.0 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-07-15T16:56:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:22Z",
+            "outcomes": [
+              { "name": "Molde", "price": 1.06 },
+              { "name": "Vålerenga", "price": 36.0 },
+              { "name": "Draw", "price": 10.0 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-07-15T16:56:49Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:49Z",
+            "outcomes": [
+              { "name": "Molde", "price": 1.07 },
+              { "name": "Vålerenga", "price": 13.0 },
+              { "name": "Draw", "price": 6.5 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-07-15T16:56:53Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:53Z",
+            "outcomes": [
+              { "name": "Molde", "price": 1.01 },
+              { "name": "Vålerenga", "price": 81.0 },
+              { "name": "Draw", "price": 31.0 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2002abcb643d9067df8691302b75aca0",
+    "sport_key": "soccer_chile_campeonato",
+    "sport_title": "Primera División - Chile",
+    "commence_time": "2023-07-15T16:29:08Z",
+    "home_team": "Colo Colo",
+    "away_team": "O'Higgins",
+    "bookmakers": [
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-07-15T16:56:47Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:47Z",
+            "outcomes": [
+              { "name": "Colo Colo", "price": 1.28 },
+              { "name": "O'Higgins", "price": 10.0 },
+              { "name": "Draw", "price": 4.7 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-07-15T16:56:37Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:37Z",
+            "outcomes": [
+              { "name": "Colo Colo", "price": 1.25 },
+              { "name": "O'Higgins", "price": 12.0 },
+              { "name": "Draw", "price": 5.1 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-07-15T16:56:02Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:02Z",
+            "outcomes": [
+              { "name": "Colo Colo", "price": 1.18 },
+              { "name": "O'Higgins", "price": 14.0 },
+              { "name": "Draw", "price": 5.25 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-07-15T16:56:56Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:56Z",
+            "outcomes": [
+              { "name": "Colo Colo", "price": 1.22 },
+              { "name": "O'Higgins", "price": 8.0 },
+              { "name": "Draw", "price": 4.33 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-07-15T16:56:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:58Z",
+            "outcomes": [
+              { "name": "Colo Colo", "price": 1.22 },
+              { "name": "O'Higgins", "price": 15.0 },
+              { "name": "Draw", "price": 5.75 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-07-15T16:56:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:31Z",
+            "outcomes": [
+              { "name": "Colo Colo", "price": 1.2 },
+              { "name": "O'Higgins", "price": 13.0 },
+              { "name": "Draw", "price": 5.5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f354e9ca8971ed0a6073bebfb5c67e88",
+    "sport_key": "mma_mixed_martial_arts",
+    "sport_title": "MMA",
+    "commence_time": "2023-07-15T17:00:00Z",
+    "home_team": "Nemanja Nikolic",
+    "away_team": "Bartosz Leśko",
+    "bookmakers": [
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-07-15T16:56:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:32Z",
+            "outcomes": [
+              { "name": "Bartosz Leśko", "price": 1.45 },
+              { "name": "Nemanja Nikolic", "price": 2.6 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "88a45440f7448db22b634e9c774a1dfc",
+    "sport_key": "mma_mixed_martial_arts",
+    "sport_title": "MMA",
+    "commence_time": "2023-07-15T17:00:00Z",
+    "home_team": "Borys Dzikowski",
+    "away_team": "Damian Mieczkowski",
+    "bookmakers": [
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-07-15T16:56:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:32Z",
+            "outcomes": [
+              { "name": "Borys Dzikowski", "price": 1.47 },
+              { "name": "Damian Mieczkowski", "price": 2.55 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-07-15T16:56:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:50Z",
+            "outcomes": [
+              { "name": "Borys Dzikowski", "price": 1.5 },
+              { "name": "Damian Mieczkowski", "price": 2.5 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0905522093efb4709d953b1f2d5ab22b",
+    "sport_key": "mma_mixed_martial_arts",
+    "sport_title": "MMA",
+    "commence_time": "2023-07-15T17:00:00Z",
+    "home_team": "Bruno Santos",
+    "away_team": "Gustavo Oliveira",
+    "bookmakers": [
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-07-15T16:56:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:32Z",
+            "outcomes": [
+              { "name": "Bruno Santos", "price": 1.36 },
+              { "name": "Gustavo Oliveira", "price": 2.95 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c38440f054cab1d4f6951a0daf7614f0",
+    "sport_key": "mma_mixed_martial_arts",
+    "sport_title": "MMA",
+    "commence_time": "2023-07-15T17:00:00Z",
+    "home_team": "Pascal Hintzen",
+    "away_team": "Damian Stasiak",
+    "bookmakers": [
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-07-15T16:56:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:32Z",
+            "outcomes": [
+              { "name": "Damian Stasiak", "price": 1.25 },
+              { "name": "Pascal Hintzen", "price": 3.7 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-07-15T16:56:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:50Z",
+            "outcomes": [
+              { "name": "Damian Stasiak", "price": 1.24 },
+              { "name": "Pascal Hintzen", "price": 3.85 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "332f3b998b98f11eaa1919b18c6ddc87",
+    "sport_key": "mma_mixed_martial_arts",
+    "sport_title": "MMA",
+    "commence_time": "2023-07-15T17:00:00Z",
+    "home_team": "Henry Fadipe",
+    "away_team": "Krystian Kaszubowski",
+    "bookmakers": [
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-07-15T16:56:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:32Z",
+            "outcomes": [
+              { "name": "Henry Fadipe", "price": 2.23 },
+              { "name": "Krystian Kaszubowski", "price": 1.6 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-07-15T16:56:50Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:50Z",
+            "outcomes": [
+              { "name": "Henry Fadipe", "price": 2.3 },
+              { "name": "Krystian Kaszubowski", "price": 1.59 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "170c38710d4bfa3fbeb468ba7d55ff38",
+    "sport_key": "mma_mixed_martial_arts",
+    "sport_title": "MMA",
+    "commence_time": "2023-07-15T17:00:00Z",
+    "home_team": "Patryk Chrobak",
+    "away_team": "Miłosz Melchert",
+    "bookmakers": [
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-07-15T16:56:32Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:32Z",
+            "outcomes": [
+              { "name": "Miłosz Melchert", "price": 1.71 },
+              { "name": "Patryk Chrobak", "price": 2.05 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8cdb1c9ac92a4ad5755ecfb0c795952d",
+    "sport_key": "soccer_argentina_primera_division",
+    "sport_title": "Primera División - Argentina",
+    "commence_time": "2023-07-15T17:00:00Z",
+    "home_team": "Union Santa Fe",
+    "away_team": "Platense",
+    "bookmakers": [
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-07-15T16:56:55Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:55Z",
+            "outcomes": [
+              { "name": "Platense", "price": 3.5 },
+              { "name": "Union Santa Fe", "price": 2.25 },
+              { "name": "Draw", "price": 2.75 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-07-15T16:56:25Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:25Z",
+            "outcomes": [
+              { "name": "Platense", "price": 3.55 },
+              { "name": "Union Santa Fe", "price": 2.27 },
+              { "name": "Draw", "price": 2.95 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-07-15T16:56:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:45Z",
+            "outcomes": [
+              { "name": "Platense", "price": 3.55 },
+              { "name": "Union Santa Fe", "price": 2.25 },
+              { "name": "Draw", "price": 2.95 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-07-15T16:56:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:34Z",
+            "outcomes": [
+              { "name": "Platense", "price": 3.35 },
+              { "name": "Union Santa Fe", "price": 2.1 },
+              { "name": "Draw", "price": 2.75 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-07-15T16:56:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:31Z",
+            "outcomes": [
+              { "name": "Platense", "price": 3.65 },
+              { "name": "Union Santa Fe", "price": 2.2 },
+              { "name": "Draw", "price": 3.05 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-07-15T16:56:36Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:36Z",
+            "outcomes": [
+              { "name": "Platense", "price": 3.7 },
+              { "name": "Union Santa Fe", "price": 2.25 },
+              { "name": "Draw", "price": 2.9 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-07-15T16:56:27Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:27Z",
+            "outcomes": [
+              { "name": "Platense", "price": 3.75 },
+              { "name": "Union Santa Fe", "price": 2.25 },
+              { "name": "Draw", "price": 2.95 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-07-15T16:56:58Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:58Z",
+            "outcomes": [
+              { "name": "Platense", "price": 3.75 },
+              { "name": "Union Santa Fe", "price": 2.25 },
+              { "name": "Draw", "price": 2.95 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d0dad26c7299258bb854807f2fb15110",
+    "sport_key": "baseball_mlb",
+    "sport_title": "MLB",
+    "commence_time": "2023-07-15T17:05:00Z",
+    "home_team": "Philadelphia Phillies",
+    "away_team": "San Diego Padres",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2023-07-15T16:56:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:22Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.4 },
+              { "name": "San Diego Padres", "price": 1.61 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "lowvig",
+        "title": "LowVig.ag",
+        "last_update": "2023-07-15T16:56:45Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:45Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.48 },
+              { "name": "San Diego Padres", "price": 1.62 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pointsbetus",
+        "title": "PointsBet (US)",
+        "last_update": "2023-07-15T16:56:26Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:26Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.4 },
+              { "name": "San Diego Padres", "price": 1.59 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betonlineag",
+        "title": "BetOnline.ag",
+        "last_update": "2023-07-15T16:56:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:31Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.48 },
+              { "name": "San Diego Padres", "price": 1.62 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "fanduel",
+        "title": "FanDuel",
+        "last_update": "2023-07-15T16:56:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:22Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.36 },
+              { "name": "San Diego Padres", "price": 1.62 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "williamhill_us",
+        "title": "William Hill (US)",
+        "last_update": "2023-07-15T16:57:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:57:00Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.4 },
+              { "name": "San Diego Padres", "price": 1.61 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "mybookieag",
+        "title": "MyBookie.ag",
+        "last_update": "2023-07-15T16:56:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:46Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.36 },
+              { "name": "San Diego Padres", "price": 1.6 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "barstool",
+        "title": "Barstool Sportsbook",
+        "last_update": "2023-07-15T16:56:46Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:46Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.4 },
+              { "name": "San Diego Padres", "price": 1.61 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "foxbet",
+        "title": "FOX Bet",
+        "last_update": "2023-07-15T16:56:57Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:57Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.25 },
+              { "name": "San Diego Padres", "price": 1.6 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "bovada",
+        "title": "Bovada",
+        "last_update": "2023-07-15T16:56:31Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:31Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.4 },
+              { "name": "San Diego Padres", "price": 1.6 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betmgm",
+        "title": "BetMGM",
+        "last_update": "2023-07-15T16:56:06Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:06Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.4 },
+              { "name": "San Diego Padres", "price": 1.61 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "betrivers",
+        "title": "BetRivers",
+        "last_update": "2023-07-15T16:56:29Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:29Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.48 },
+              { "name": "San Diego Padres", "price": 1.57 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "twinspires",
+        "title": "TwinSpires",
+        "last_update": "2023-07-15T16:56:22Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:22Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.45 },
+              { "name": "San Diego Padres", "price": 1.57 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "unibet_us",
+        "title": "Unibet",
+        "last_update": "2023-07-15T16:56:54Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:54Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.48 },
+              { "name": "San Diego Padres", "price": 1.57 }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "superbook",
+        "title": "SuperBook",
+        "last_update": "2023-07-15T16:56:34Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2023-07-15T16:56:34Z",
+            "outcomes": [
+              { "name": "Philadelphia Phillies", "price": 2.35 },
+              { "name": "San Diego Padres", "price": 1.62 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

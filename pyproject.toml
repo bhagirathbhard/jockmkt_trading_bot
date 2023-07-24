@@ -2,4 +2,25 @@
 requires = ["setuptools>=65"]
 build-backend = "setuptools.build_meta"
 
+[tool.poetry]
+name = "jockmkt-trading-bot"
+version = "0.1.0"
+description = "JockMKT Trading Bot"
+authors = ["Bhagirath Bhardwaj <bhagirathbhard@users.noreply.github.com>"]
+readme = "README.md"
 
+[tool.poetry.dependencies]
+python = "^3.9"
+pytest = ">=7.1.1"
+numpy = ">=1.21.6"
+DateTime = ">=4.3"
+jockmkt-sdk = ">=0.2.14"
+Jinja2 = ">=3.1.2"
+pyfiglet = ">=0.0"
+python-dotenv = "^1.0.0"
+tweepy = "^4.14.0"
+praw = "^7.7.1"
+nltk = "^3.8.1"
+argparse = "^1.4.0"
+regex = "^2023.6.3"
+pandas = "^2.0.3"
