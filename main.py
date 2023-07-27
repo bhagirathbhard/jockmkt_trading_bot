@@ -1,7 +1,7 @@
 import logging
-import os
-from dotenv import load_dotenv
 import time
+from dotenv import load_dotenv
+import os
 from http.server import HTTPServer
 from jockmkt_sdk.client import Client
 from jockmkt_sdk.exception import JockAPIException
@@ -17,9 +17,10 @@ from typing import List
 import webbrowser
 import pyfiglet
 
-
-# Import SentimentMarketMaker and SentimentConfig from your strategy module
-from strategies.live.sentiment import SentimentMarketMaker, SentimentConfig
+from strategies.live.dump_late import DumpLateConfig, DumpLate
+from strategies.live.short_early import ShortEarlyConfig, ShortEarly
+from strategies.live.short_early_sentiment import ShortEarlySentimentConfig, ShortEarlySentiment
+from strategies.ipo.heat_check import HeatCheckConfig, HeatCheck, HeatCheckStrategies
 
 
 def trade_strategy(strategy: Strategy, counter=EnvOrderCt()):
@@ -121,11 +122,19 @@ if __name__ == "__main__":
     apiKey = os.environ['api_key']
 
     # initialize and customize your strategy config
-    my_strat_config = SentimentConfig()
-    my_strat_config.log_level = logging.DEBUG
-    my_strat_config.order_size = 0
-    my_strat_config.event_id = 'evt_64acd3c2745cad6759360b1e434789'
-    my_strat_config.web_popup = True
+    my_strat_config1 = DumpLateConfig()
+    # my_strat_config1.strategy = 1
+    my_strat_config1.log_level = logging.DEBUG
+    #my_strat_config1.order_size = 1
+    my_strat_config1.max_spend = 20
+    my_strat_config1.event_id = 'evt_64ba02c6a5c1032ac5c9798a5a32fbaf'
+    my_strat_config1.web_popup = True
 
-    # Run the SentimentMarketMaker strategy
-    trade_strategy(SentimentMarketMaker(my_strat_config))
+    cf2 = ShortEarlySentimentConfig()
+    cf2.max_spend = 20
+    cf2.event_id = 'evt_64ba02c6a5c1032ac5c9798a5a32fbaf'
+
+    cf3 = HeatCheckConfig()
+    cf3.max_spend = 30
+
+    trade_multiple_strategies([HeatCheck(cf3)])

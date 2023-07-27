@@ -1,0 +1,728 @@
+[
+  {
+    "key": "batter_home_runs",
+    "last_update": "2023-07-26T00:19:30Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Adley Rutschman",
+        "price": 14.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Adley Rutschman",
+        "price": 1.03,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Anthony Santander",
+        "price": 8.5,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Anthony Santander",
+        "price": 1.07,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Bryce Harper",
+        "price": 11.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Bryce Harper",
+        "price": 1.05,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Gunnar Henderson",
+        "price": 13.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Gunnar Henderson",
+        "price": 1.04,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "J.T. Realmuto",
+        "price": 13.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "J.T. Realmuto",
+        "price": 1.04,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Kyle Schwarber",
+        "price": 7.5,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Kyle Schwarber",
+        "price": 1.09,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Nick Castellanos",
+        "price": 12.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Nick Castellanos",
+        "price": 1.04,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Trea Turner",
+        "price": 13.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Trea Turner",
+        "price": 1.04,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_home_runs",
+    "last_update": "2023-07-26T00:19:07Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Kyle Schwarber",
+        "price": 8.5,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Anthony Santander",
+        "price": 11.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Bryce Harper",
+        "price": 13.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "J.T. Realmuto",
+        "price": 14.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Nick Castellanos",
+        "price": 14.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Gunnar Henderson",
+        "price": 14.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Hays",
+        "price": 15.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Trea Turner",
+        "price": 16.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordan Westburg",
+        "price": 15.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ryan O'Hearn",
+        "price": 17.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Colton Cowser",
+        "price": 17.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Adley Rutschman",
+        "price": 16.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Alec Bohm",
+        "price": 18.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Bryson Stott",
+        "price": 24.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Johan Rojas",
+        "price": 28.0,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Brandon Marsh",
+        "price": 36.0,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_home_runs",
+    "last_update": "2023-07-26T00:17:16Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Anthony Santander",
+        "price": 8.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Anthony Santander",
+        "price": 1.05,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "J.T. Realmuto",
+        "price": 10.5,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "J.T. Realmuto",
+        "price": 1.03,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Bryce Harper",
+        "price": 9.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Bryce Harper",
+        "price": 1.04,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Gunnar Henderson",
+        "price": 11.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Gunnar Henderson",
+        "price": 1.02,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Colton Cowser",
+        "price": 11.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Colton Cowser",
+        "price": 1.02,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Nick Castellanos",
+        "price": 10.5,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Nick Castellanos",
+        "price": 1.03,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Trea Turner",
+        "price": 10.5,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Trea Turner",
+        "price": 1.03,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Hays",
+        "price": 10.5,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Hays",
+        "price": 1.03,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Kyle Schwarber",
+        "price": 7.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Kyle Schwarber",
+        "price": 1.07,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_hits_runs_rbis",
+    "last_update": "2023-07-26T00:19:30Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Adley Rutschman",
+        "price": 2.25,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Adley Rutschman",
+        "price": 1.61,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Alec Bohm",
+        "price": 2.35,
+        "point": 2.5
+      },
+      {
+        "name": "Under",
+        "description": "Alec Bohm",
+        "price": 1.54,
+        "point": 2.5
+      },
+      {
+        "name": "Over",
+        "description": "Anthony Santander",
+        "price": 2.4,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Anthony Santander",
+        "price": 1.54,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Brandon Marsh",
+        "price": 2.85,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Brandon Marsh",
+        "price": 1.38,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Bryce Harper",
+        "price": 1.87,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Bryce Harper",
+        "price": 1.87,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Bryson Stott",
+        "price": 2.1,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Bryson Stott",
+        "price": 1.69,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Gunnar Henderson",
+        "price": 2.3,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Gunnar Henderson",
+        "price": 1.59,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "J.T. Realmuto",
+        "price": 2.25,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "J.T. Realmuto",
+        "price": 1.61,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Johan Rojas",
+        "price": 3.05,
+        "point": 2.5
+      },
+      {
+        "name": "Under",
+        "description": "Johan Rojas",
+        "price": 1.34,
+        "point": 2.5
+      },
+      {
+        "name": "Over",
+        "description": "Kyle Schwarber",
+        "price": 2.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Kyle Schwarber",
+        "price": 1.77,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Nick Castellanos",
+        "price": 2.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Nick Castellanos",
+        "price": 1.74,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ryan O'Hearn",
+        "price": 2.85,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ryan O'Hearn",
+        "price": 1.4,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Trea Turner",
+        "price": 1.87,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Trea Turner",
+        "price": 1.87,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_hits_runs_rbis",
+    "last_update": "2023-07-26T00:17:16Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Austin Hays",
+        "price": 1.91,
+        "point": 2.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Hays",
+        "price": 1.8,
+        "point": 2.5
+      },
+      {
+        "name": "Over",
+        "description": "Adam Frazier",
+        "price": 2.1,
+        "point": 3.5
+      },
+      {
+        "name": "Under",
+        "description": "Adam Frazier",
+        "price": 1.65,
+        "point": 3.5
+      },
+      {
+        "name": "Over",
+        "description": "Alec Bohm",
+        "price": 2.3,
+        "point": 2.5
+      },
+      {
+        "name": "Under",
+        "description": "Alec Bohm",
+        "price": 1.56,
+        "point": 2.5
+      },
+      {
+        "name": "Over",
+        "description": "Adley Rutschman",
+        "price": 2.25,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Adley Rutschman",
+        "price": 1.57,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Gunnar Henderson",
+        "price": 2.3,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Gunnar Henderson",
+        "price": 1.56,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Johan Rojas",
+        "price": 2.9,
+        "point": 2.5
+      },
+      {
+        "name": "Under",
+        "description": "Johan Rojas",
+        "price": 1.36,
+        "point": 2.5
+      },
+      {
+        "name": "Over",
+        "description": "Anthony Santander",
+        "price": 2.4,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Anthony Santander",
+        "price": 1.5,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Ryan O'Hearn",
+        "price": 2.9,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ryan O'Hearn",
+        "price": 1.36,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Trea Turner",
+        "price": 1.87,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Trea Turner",
+        "price": 1.87,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Kyle Schwarber",
+        "price": 2.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Kyle Schwarber",
+        "price": 1.74,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Bryce Harper",
+        "price": 1.83,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Bryce Harper",
+        "price": 1.87,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordan Westburg",
+        "price": 2.45,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordan Westburg",
+        "price": 1.47,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Brandon Marsh",
+        "price": 2.75,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Brandon Marsh",
+        "price": 1.4,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Nick Castellanos",
+        "price": 2.0,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Nick Castellanos",
+        "price": 1.74,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "J.T. Realmuto",
+        "price": 2.2,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "J.T. Realmuto",
+        "price": 1.61,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Bryson Stott",
+        "price": 2.05,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Bryson Stott",
+        "price": 1.71,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Colton Cowser",
+        "price": 2.15,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Colton Cowser",
+        "price": 1.62,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "pitcher_strikeouts",
+    "last_update": "2023-07-26T00:19:30Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Kyle Gibson",
+        "price": 1.49,
+        "point": 4.5
+      },
+      {
+        "name": "Under",
+        "description": "Kyle Gibson",
+        "price": 2.5,
+        "point": 4.5
+      }
+    ]
+  },
+  {
+    "key": "pitcher_strikeouts",
+    "last_update": "2023-07-26T00:17:16Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Kyle Gibson",
+        "price": 1.5,
+        "point": 4.5
+      },
+      {
+        "name": "Under",
+        "description": "Kyle Gibson",
+        "price": 2.4,
+        "point": 4.5
+      }
+    ]
+  }
+]

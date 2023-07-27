@@ -151,7 +151,18 @@ class HeatCheck(Strategy):
                              stats['two_pt_conversions']) + stats['receiving_receptions'] + (
                                          stats['receiving_yards'] // 100) * 3 + (stats['rushing_yards'] // 100) * 3, 2)
             elif stats['league'] == 'mlb':
-                raise JockBotException('000', 'League not available', f'{stats["league"]} is not available for this strategy')
+                return round(
+                3 * stats['hits'] +
+                6 * stats['doubles'] +
+                9 * stats['triples'] +
+                12 * stats['home_runs'] +
+                3.5 * stats['runs_batted_in'] +
+                3.2 * stats['runs'] +
+                2 * stats['stolen_bases'] +
+                2.25 * stats['walks'] +
+                3 * stats['hit_by_pitches'] +
+                (-2.6) * stats['strikeouts'] -
+                5 * stats['caught_stealing'], 2)
             else:
                 raise JockBotException('000', 'League not available', f'{stats["league"]} is not available for this strategy')
         else:

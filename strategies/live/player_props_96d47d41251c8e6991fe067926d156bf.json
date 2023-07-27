@@ -1,0 +1,812 @@
+[
+  {
+    "key": "batter_home_runs",
+    "last_update": "2023-07-26T17:04:53Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Alex Call",
+        "price": 950,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Alex Call",
+        "price": -1800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "CJ Abrams",
+        "price": 1000,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "CJ Abrams",
+        "price": -2000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Corey Dickerson",
+        "price": 1200,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Corey Dickerson",
+        "price": -2500,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Dominic Smith",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Dominic Smith",
+        "price": -1400,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Elehuris Montero",
+        "price": 1000,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Elehuris Montero",
+        "price": -2000,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Harold Castro",
+        "price": 1300,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Harold Castro",
+        "price": -3000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jeimer Candelario",
+        "price": 800,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jeimer Candelario",
+        "price": -1400,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Joey Meneses",
+        "price": 1100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Joey Meneses",
+        "price": -2500,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Lane Thomas",
+        "price": 850,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Lane Thomas",
+        "price": -1600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Garcia (WAS)",
+        "price": 950,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Garcia (WAS)",
+        "price": -1800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Toglia",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Toglia",
+        "price": -1400,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Nolan Jones",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Nolan Jones",
+        "price": -1400,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -1400,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_home_runs",
+    "last_update": "2023-07-26T17:08:01Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Lane Thomas",
+        "price": 800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Nolan Jones",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 850,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jeimer Candelario",
+        "price": 800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Dominic Smith",
+        "price": 950,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Mike Toglia",
+        "price": 850,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Alex Call",
+        "price": 1000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Abrams",
+        "price": 1200,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Corey Dickerson",
+        "price": 1100,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Garcia",
+        "price": 1200,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Joey Meneses",
+        "price": 1300,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Harold Castro",
+        "price": 2100,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_home_runs",
+    "last_update": "2023-07-26T17:10:27Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Ryan McMahon",
+        "price": 600,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Ryan McMahon",
+        "price": -1400,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Elehuris Montero",
+        "price": 800,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Elehuris Montero",
+        "price": -2800,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Nolan Jones",
+        "price": 650,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Nolan Jones",
+        "price": -1600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Corey Dickerson",
+        "price": 950,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Corey Dickerson",
+        "price": -3500,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 700,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -2000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Joey Meneses",
+        "price": 950,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Joey Meneses",
+        "price": -3500,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "CJ Abrams",
+        "price": 800,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "CJ Abrams",
+        "price": -2800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jeimer Candelario",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jeimer Candelario",
+        "price": -2500,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Brenton Doyle",
+        "price": 800,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Brenton Doyle",
+        "price": -2800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Alex Call",
+        "price": 800,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Alex Call",
+        "price": -2800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ezequiel Tovar",
+        "price": 1000,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ezequiel Tovar",
+        "price": -4000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Garcia",
+        "price": 800,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Garcia",
+        "price": -2800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Lane Thomas",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Lane Thomas",
+        "price": -2500,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Toglia",
+        "price": 700,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Toglia",
+        "price": -2000,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_hits_runs_rbis",
+    "last_update": "2023-07-26T17:04:53Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Alex Call",
+        "price": -150,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Alex Call",
+        "price": 110,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "CJ Abrams",
+        "price": -180,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "CJ Abrams",
+        "price": 135,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Corey Dickerson",
+        "price": 130,
+        "point": 2.5
+      },
+      {
+        "name": "Under",
+        "description": "Corey Dickerson",
+        "price": -170,
+        "point": 2.5
+      },
+      {
+        "name": "Over",
+        "description": "Dominic Smith",
+        "price": 115,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Dominic Smith",
+        "price": -150,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Elehuris Montero",
+        "price": 120,
+        "point": 4.5
+      },
+      {
+        "name": "Under",
+        "description": "Elehuris Montero",
+        "price": -160,
+        "point": 4.5
+      },
+      {
+        "name": "Over",
+        "description": "Harold Castro",
+        "price": -125,
+        "point": 2.5
+      },
+      {
+        "name": "Under",
+        "description": "Harold Castro",
+        "price": -105,
+        "point": 2.5
+      },
+      {
+        "name": "Over",
+        "description": "Jeimer Candelario",
+        "price": -120,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Jeimer Candelario",
+        "price": -110,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Joey Meneses",
+        "price": -135,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Joey Meneses",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Lane Thomas",
+        "price": -145,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Lane Thomas",
+        "price": 110,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Garcia (WAS)",
+        "price": 110,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Garcia (WAS)",
+        "price": -145,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Toglia",
+        "price": -110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Toglia",
+        "price": -125,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Nolan Jones",
+        "price": -125,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Nolan Jones",
+        "price": -105,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": -145,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": 110,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_hits_runs_rbis",
+    "last_update": "2023-07-26T17:10:27Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Elehuris Montero",
+        "price": 115,
+        "point": 4.5
+      },
+      {
+        "name": "Under",
+        "description": "Elehuris Montero",
+        "price": -160,
+        "point": 4.5
+      },
+      {
+        "name": "Over",
+        "description": "Ryan McMahon",
+        "price": -160,
+        "point": 4.5
+      },
+      {
+        "name": "Under",
+        "description": "Ryan McMahon",
+        "price": 115,
+        "point": 4.5
+      },
+      {
+        "name": "Over",
+        "description": "Harold Castro",
+        "price": -125,
+        "point": 2.5
+      },
+      {
+        "name": "Under",
+        "description": "Harold Castro",
+        "price": -110,
+        "point": 2.5
+      },
+      {
+        "name": "Over",
+        "description": "Ezequiel Tovar",
+        "price": -110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ezequiel Tovar",
+        "price": -125,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Corey Dickerson",
+        "price": 135,
+        "point": 2.5
+      },
+      {
+        "name": "Under",
+        "description": "Corey Dickerson",
+        "price": -190,
+        "point": 2.5
+      },
+      {
+        "name": "Over",
+        "description": "CJ Abrams",
+        "price": -175,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "CJ Abrams",
+        "price": 125,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Brenton Doyle",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Brenton Doyle",
+        "price": -135,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Toglia",
+        "price": -115,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Toglia",
+        "price": -120,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": -150,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": 105,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Garcia",
+        "price": 110,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Garcia",
+        "price": -155,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Nolan Jones",
+        "price": -125,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Nolan Jones",
+        "price": -110,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Wynns",
+        "price": 145,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Wynns",
+        "price": -215,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Lane Thomas",
+        "price": -135,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Lane Thomas",
+        "price": 100,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Jeimer Candelario",
+        "price": -125,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Jeimer Candelario",
+        "price": -110,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Alex Call",
+        "price": -140,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Alex Call",
+        "price": 105,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Joey Meneses",
+        "price": -125,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Joey Meneses",
+        "price": -110,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "pitcher_strikeouts",
+    "last_update": "2023-07-26T17:04:53Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Peter Lambert",
+        "price": 135,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Peter Lambert",
+        "price": -185,
+        "point": 1.5
+      }
+    ]
+  },
+  {
+    "key": "pitcher_strikeouts",
+    "last_update": "2023-07-26T17:05:20Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Peter Lambert",
+        "price": 130,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Peter Lambert",
+        "price": -180,
+        "point": 1.5
+      }
+    ]
+  }
+]
