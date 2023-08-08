@@ -10,14 +10,13 @@ from jockbot.signals import Signal
 from typing import Union, Type, Dict
 
 
-
 class DumpLateConfig(StrategyConfig):
     """
     Config additions required for the DumpLate strategy.
 
     :cvar required_profit_margin: Require an estimated profit margin as a percentage before making a trade. Does not guarantee profit. Higher number will place less orders and take less risk.
     :type required_profit_margin: float, required
-    :cvar order_size: Number of shares to buy in each order (min 1). I recommend playing around with this based on market liquidity.
+    :cvar : Number of shares to buy in each order (min 1). I recommend playing around with this based on market liquidity.
     :type order_size: int, optional
     :cvar dollar_size: required if no order_size, the dollar amount you would like to spend on an order (rather than share amount)
                        e.g.: if price = 5 and dollar_size = 50, the bot will place an order for 10 shares. Default None

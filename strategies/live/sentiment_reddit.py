@@ -1,39 +1,37 @@
 import csv
 import datetime
+import glob
+import json
 import os
 from typing import List, Tuple
 
 import nltk
-import praw
+import praw.models
 from dotenv import load_dotenv
 from nltk.sentiment import SentimentIntensityAnalyzer
 
 nltk.download("vader_lexicon")
-load_dotenv()
 
-CLIENT_ID = os.environ['CLIENT_ID']
-CLIENT_SECRET = os.environ['CLIENT_SECRET']
-USER_AGENT = os.environ['USER_AGENT']
 
-reddit = praw.Reddit(client_id=CLIENT_ID, client_secret=CLIENT_SECRET, user_agent=USER_AGENT)
-
-player_names_input = input("Enter the player names separated by commas: ")
-player_names = [name.strip() for name in player_names_input.split(',')]
-subreddits_input = input("Enter the subreddits separated by commas: ")
-subreddits = '+'.join([subreddit.strip() for subreddit in subreddits_input.split(',')])
-
-def get_reddit_posts(player_name: str, subreddit: praw.models.Subreddit, time_filter: str = 'month') -> List[Tuple[str]]:
+def get_reddit_posts(player_names: List[str], reddit: praw.Reddit, subreddit_names: List[str], num_posts: int = 5, num_comments: int = 10) -> List[Tuple[str]]:
     posts = []
+    print(player_names)
+    for subreddit_name in subreddit_names:
+        subreddit_instance = reddit.subreddit(subreddit_name)
+        hot_posts = subreddit_instance.hot(limit=num_posts)
 
-    query = f"{player_name}"
-    for submission in subreddit.search(query, time_filter=time_filter, limit=None, sort='new'):
+        for submission in hot_posts:
+            submission_comments = []
+            submission.comments.replace_more(limit=0)  # Remove "MoreComments" instances
+            for comment in submission.comments.list()[:num_comments]:
+                # Check if any player name variation is present in the comment
+                if any(name.lower() in comment.body.lower() for name in player_names):
+                    submission_comments.append(comment.body)
 
-        submission_comments = list(submission.comments)[:10]
-        comments_with_player_name = [comment.body for comment in submission_comments if (player_name.lower() in comment.body.lower())]
-
-        if comments_with_player_name:
-            comments = ' '.join(comments_with_player_name)
-            posts.append((submission.title, submission.selftext, submission.url, comments))
+            if submission_comments:
+                comments = " ".join(submission_comments)
+                posts.append((submission.title, submission.selftext, submission.url, comments))
+    print(posts)
     return posts
 
 
@@ -51,47 +49,75 @@ def sentiment_analysis(post_tuple: Tuple[str]) -> float:
     sentiment_comments = sentiment_analyzer.polarity_scores(comments)
     sentiment_scores.append(sentiment_comments["compound"])
 
-    sentiment_score = 0 if not sentiment_scores else sum(sentiment_scores) / len(sentiment_scores)
+    sentiment_score = (
+        0 if not sentiment_scores else sum(sentiment_scores) / len(sentiment_scores)
+    )
     return sentiment_score
 
+def main():
+    # Load environment variables and configure Reddit API
+    load_dotenv()
+    CLIENT_ID = os.environ["CLIENT_ID"]
+    CLIENT_SECRET = os.environ["CLIENT_SECRET"]
+    USER_AGENT = os.environ["USER_AGENT"]
+    reddit = praw.Reddit(
+        client_id=CLIENT_ID, client_secret=CLIENT_SECRET, user_agent=USER_AGENT
+    )
 
-def export_to_csv(players_sentiments: List[dict], file_name: str = "players_sentiments.csv"):
+    # Get subreddits_input
+    subreddits_input = input("Enter the subreddits separated by commas: ")
+    subreddits = [subreddit.strip() for subreddit in subreddits_input.split(',')]
 
-    with open(file_name, mode="w") as csv_file:
-        fieldnames = ["Player Name", "Sentiment This Week", "Sentiment This Month", "URLs", "Comments"]
-        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+    # List all JSON files in the playerprops folder
+    json_files = glob.glob("/Users/bhagirathbhardwaj/Documents/GitHub/jockmkt_trading_bot/strategies/live/playerprops/*.json")
 
-        writer.writeheader()
-        for player_sentiment in players_sentiments:
-            writer.writerow(player_sentiment)
+    # Iterate through each JSON file
+    for json_file_path in json_files:
+        # Read JSON data from the file and save it to a Python variable
+        with open(json_file_path, "r") as json_file:
+            json_data = json.load(json_file)
+
+        # Perform sentiment analysis for each player's name in the JSON data
+        players_sentiments = []
+        for player in json_data:
+            player_name = player["Description"]
+            variations = [player_name, player_name.split(" ")[0], player_name.split(" ")[-1]]
+            posts_from_given_subs = get_reddit_posts(variations, reddit, subreddits)
+            sentiment_this_month = (
+                sum(sentiment_analysis(post) for post in posts_from_given_subs)
+                / len(posts_from_given_subs)
+                if posts_from_given_subs
+                else 0
+            )
+
+            player_sentiment = {
+                "Player Name": player_name,
+                "Sentiment This Month": sentiment_this_month,
+            }
+            players_sentiments.append(player_sentiment)
+
+        # Update the JSON data with sentiment scores
+        for player in json_data:
+            player_name = player["Description"]
+            sentiment_found = False
+
+            for player_sentiment in players_sentiments:
+                if player_sentiment["Player Name"] == player_name:
+                    sentiment_month_score = player_sentiment["Sentiment This Month"]
+                    player["Sentiment Score"] = (
+                        sentiment_month_score if sentiment_month_score != "NA" else 0
+                    )
+                    sentiment_found = True
+                    break
+
+            if not sentiment_found:
+                player["Sentiment Score"] = 0
+
+        # Save updated JSON data to a new JSON file
+        json_output_file_path = json_file_path.replace(".json", "_with_sentiment.json")
+        with open(json_output_file_path, "w") as json_file:
+            json.dump(json_data, json_file, indent=2)
+
 
 if __name__ == "__main__":
-    players_sentiments = []
-
-    for player_name in player_names:
-        subreddit_instance = reddit.subreddit(subreddits)
-
-        posts_this_week = get_reddit_posts(player_name, subreddit_instance, time_filter="week")
-        posts_this_month = get_reddit_posts(player_name, subreddit_instance, time_filter="month")
-
-        if not posts_this_week and not posts_this_month:
-            print(f"No posts found for {player_name}")
-            continue
-
-        sentiment_this_week = sum(sentiment_analysis(post) for post in posts_this_week) / len(posts_this_week) if posts_this_week else 0
-        sentiment_this_month = sum(sentiment_analysis(post) for post in posts_this_month) / len(posts_this_month) if posts_this_month else 0
-
-        post_urls = [post[2] for post in posts_this_week + posts_this_month]
-        extracted_comments = [post[3] for post in posts_this_week + posts_this_month]
-
-        player_sentiment = {
-            "Player Name": player_name,
-            "Sentiment This Week": sentiment_this_week,
-            "Sentiment This Month": sentiment_this_month,
-            "URLs": ','.join(post_urls),
-            "Comments": ','.join(extracted_comments)
-        }
-        players_sentiments.append(player_sentiment)
-
-    export_to_csv(players_sentiments)
-    print("CSV file generated successfully.")
+    main()

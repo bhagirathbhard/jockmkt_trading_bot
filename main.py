@@ -122,19 +122,23 @@ if __name__ == "__main__":
     apiKey = os.environ['api_key']
 
     # initialize and customize your strategy config
+    
+
     my_strat_config1 = DumpLateConfig()
-    # my_strat_config1.strategy = 1
+    my_strat_config1.strategy = 1
     my_strat_config1.log_level = logging.DEBUG
-    #my_strat_config1.order_size = 1
-    my_strat_config1.max_spend = 20
-    my_strat_config1.event_id = 'evt_64ba02c6a5c1032ac5c9798a5a32fbaf'
+    my_strat_config1.order_size = 1
+    my_strat_config1.max_spend = 10
+    my_strat_config1.event_id = 'evt_64c33d46e7b1e20c2e26c6e766fa14d8'
     my_strat_config1.web_popup = True
 
-    cf2 = ShortEarlySentimentConfig()
-    cf2.max_spend = 20
-    cf2.event_id = 'evt_64ba02c6a5c1032ac5c9798a5a32fbaf'
+    #cf2 = ShortEarlySentimentConfig()
+    #cf2.max_spend = 20
+    #cf2.event_id = 'evt_64ba02c6a5c1032ac5c9798a5a32fbaf'
+    #cf2.web_popup = True
 
-    cf3 = HeatCheckConfig()
-    cf3.max_spend = 30
+    #cf3 = HeatCheckConfig()
+    #cf3.event_id = 'evt_64c8834557ca3c54cf2fb39fcee4592e'
+    #cf3.max_spend = 30
 
-    trade_multiple_strategies([HeatCheck(cf3)])
+    trade_multiple_strategies([DumpLate(my_strat_config1)])

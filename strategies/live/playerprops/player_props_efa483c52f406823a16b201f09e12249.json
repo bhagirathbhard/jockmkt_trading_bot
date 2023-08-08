@@ -1,0 +1,2990 @@
+[
+  {
+    "key": "batter_home_runs",
+    "last_update": "2023-08-02T16:42:46Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 400,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 550,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -900,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 850,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -1600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 475,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -750,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 650,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -1100,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 475,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -750,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 950,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordyn Adams",
+        "price": -1800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 650,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -1100,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 320,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -475,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Matt Olson",
+        "price": 245,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Matt Olson",
+        "price": -350,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris",
+        "price": 600,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris",
+        "price": -1000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -1400,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 500,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 600,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -1000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": 425,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acuna Jr.",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 500,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -1400,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_home_runs",
+    "last_update": "2023-08-02T16:43:08Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Shohei Ohtani",
+        "price": 380,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 410,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 480,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": 490,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 550,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 550,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 700,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 700,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 950,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_home_runs",
+    "last_update": "2023-08-02T16:43:39Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": 400,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": -750,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 650,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -1600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 700,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -2000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 700,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -2000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 550,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -1200,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 550,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -1200,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 500,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -1000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 700,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -2000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 650,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -1600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 425,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 425,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 400,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -750,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 600,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris II",
+        "price": -1400,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 450,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -900,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 300,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -500,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_singles",
+    "last_update": "2023-08-02T16:42:46Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 140,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -190,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -145,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 125,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -170,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 115,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -155,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 145,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -195,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 135,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -185,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 115,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordyn Adams",
+        "price": -155,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -140,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 120,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -165,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Matt Olson",
+        "price": 160,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Matt Olson",
+        "price": -220,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris",
+        "price": -140,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": -110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -125,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 150,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -205,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 120,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -165,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acuna Jr.",
+        "price": -135,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -135,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 145,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -200,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_singles",
+    "last_update": "2023-08-02T16:43:08Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 125,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -160,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -140,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": -150,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acuna Jr.",
+        "price": 115,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": -110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -115,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": -135,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": 105,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris II",
+        "price": -135,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": -105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -120,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": -105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -120,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 115,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordyn Adams",
+        "price": -150,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": -110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -115,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": -105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -120,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -125,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Matt Olson",
+        "price": 160,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Matt Olson",
+        "price": -210,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 125,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -160,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 120,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -155,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_singles",
+    "last_update": "2023-08-02T16:43:39Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -150,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": -135,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -140,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 135,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -190,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 120,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -165,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris II",
+        "price": -135,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 135,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -190,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 145,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -215,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -140,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 120,
+        "point": 1.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -165,
+        "point": 1.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 140,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -200,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -155,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 125,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -175,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": -105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -130,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 140,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -200,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_doubles",
+    "last_update": "2023-08-02T16:42:46Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 425,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 425,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 500,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 390,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 425,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 380,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -575,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 450,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordyn Adams",
+        "price": -700,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 390,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 390,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -575,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Matt Olson",
+        "price": 390,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Matt Olson",
+        "price": -575,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris",
+        "price": 425,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 425,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 400,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 400,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": 390,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acuna Jr.",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 380,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -575,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 500,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -800,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_doubles",
+    "last_update": "2023-08-02T16:43:08Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 440,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -700,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 400,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 550,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -950,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 300,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -430,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 300,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -430,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 420,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 310,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -450,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 320,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -470,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 310,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -450,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 450,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordyn Adams",
+        "price": -750,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 330,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -490,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 400,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": 310,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acuna Jr.",
+        "price": -450,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 370,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -550,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Matt Olson",
+        "price": 400,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Matt Olson",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Shohei Ohtani",
+        "price": 260,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Shohei Ohtani",
+        "price": -370,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 430,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris II",
+        "price": -650,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_doubles",
+    "last_update": "2023-08-02T16:43:39Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 360,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 350,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 360,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris II",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 350,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 350,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 400,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -750,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 350,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 360,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 360,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 360,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -650,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": 350,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 350,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 450,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -800,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 350,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 350,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -600,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_triples",
+    "last_update": "2023-08-02T16:43:08Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 6000,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -20000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 2800,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -8000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 3400,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris II",
+        "price": -8000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 8000,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -20000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 6000,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -20000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 8000,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -50000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 8000,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -20000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": 4900,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acuna Jr.",
+        "price": -20000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Matt Olson",
+        "price": 6500,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Matt Olson",
+        "price": -20000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 3500,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -8000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 5500,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordyn Adams",
+        "price": -20000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 8000,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -50000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Shohei Ohtani",
+        "price": 3700,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Shohei Ohtani",
+        "price": -8000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 8000,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -50000,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_runs_scored",
+    "last_update": "2023-08-02T16:42:46Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 120,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -160,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 135,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -185,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 165,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -225,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 130,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -175,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 170,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -235,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 145,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -200,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 145,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordyn Adams",
+        "price": -200,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 130,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -175,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -150,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Matt Olson",
+        "price": -130,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Matt Olson",
+        "price": -105,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris",
+        "price": 110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris",
+        "price": -150,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 135,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -180,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 125,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -165,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 140,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -195,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acuna Jr.",
+        "price": -135,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 120,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -160,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 195,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -275,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_runs_scored",
+    "last_update": "2023-08-02T16:43:08Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 110,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris II",
+        "price": -140,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -130,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": -115,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -110,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 125,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -160,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 130,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -165,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 120,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -155,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 130,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -165,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -125,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": -160,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acuna Jr.",
+        "price": 125,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Shohei Ohtani",
+        "price": -170,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Shohei Ohtani",
+        "price": 135,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 185,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -250,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": -115,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -110,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 100,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -130,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 150,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordyn Adams",
+        "price": -195,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Matt Olson",
+        "price": -120,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Matt Olson",
+        "price": -105,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -135,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 130,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -165,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_runs_scored",
+    "last_update": "2023-08-02T16:43:39Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 125,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -175,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": -105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": -130,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 115,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -160,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 120,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -165,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 120,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -165,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 130,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -180,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 130,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -180,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -150,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 190,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -275,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 105,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris II",
+        "price": -150,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 140,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -200,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 135,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -190,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 135,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -190,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 160,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -225,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 175,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -250,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_stolen_bases",
+    "last_update": "2023-08-02T16:42:46Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 1600,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -4000,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 700,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordyn Adams",
+        "price": -1200,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 850,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -1600,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris",
+        "price": 310,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris",
+        "price": -450,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 650,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -1100,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": 210,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acuna Jr.",
+        "price": -300,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 950,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -1800,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_stolen_bases",
+    "last_update": "2023-08-02T16:43:39Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": 200,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": -300,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 600,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -1400,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 300,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris II",
+        "price": -500,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 750,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -2500,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_rbis",
+    "last_update": "2023-08-02T16:42:46Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 160,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -220,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 185,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -255,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 295,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -425,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 180,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -250,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 220,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -310,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 180,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -255,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Jordyn Adams",
+        "price": 300,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Jordyn Adams",
+        "price": -450,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 210,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -295,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 155,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -215,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Matt Olson",
+        "price": 145,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Matt Olson",
+        "price": -195,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris",
+        "price": 205,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris",
+        "price": -290,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 220,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -310,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 155,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -215,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 200,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -280,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acuna Jr.",
+        "price": 150,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acuna Jr.",
+        "price": -210,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 205,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -290,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 265,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -380,
+        "point": 0.5
+      }
+    ]
+  },
+  {
+    "key": "batter_rbis",
+    "last_update": "2023-08-02T16:43:39Z",
+    "outcomes": [
+      {
+        "name": "Over",
+        "description": "Travis d'Arnaud",
+        "price": 200,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Travis d'Arnaud",
+        "price": -285,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Michael Harris II",
+        "price": 200,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Michael Harris II",
+        "price": -285,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eddie Rosario",
+        "price": 175,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eddie Rosario",
+        "price": -250,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ozzie Albies",
+        "price": 150,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ozzie Albies",
+        "price": -220,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Hunter Renfroe",
+        "price": 180,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Hunter Renfroe",
+        "price": -260,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": 145,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Ronald Acu\u00f1a Jr.",
+        "price": -215,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "C.J. Cron",
+        "price": 180,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "C.J. Cron",
+        "price": -260,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Marcell Ozuna",
+        "price": 145,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Marcell Ozuna",
+        "price": -215,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Luis Rengifo",
+        "price": 200,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Luis Rengifo",
+        "price": -285,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Zach Neto",
+        "price": 240,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Zach Neto",
+        "price": -390,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Austin Riley",
+        "price": 150,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Austin Riley",
+        "price": -220,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Eduardo Escobar",
+        "price": 200,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Eduardo Escobar",
+        "price": -300,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Randal Grichuk",
+        "price": 190,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Randal Grichuk",
+        "price": -275,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Chad Wallach",
+        "price": 270,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Chad Wallach",
+        "price": -425,
+        "point": 0.5
+      },
+      {
+        "name": "Over",
+        "description": "Orlando Arcia",
+        "price": 210,
+        "point": 0.5
+      },
+      {
+        "name": "Under",
+        "description": "Orlando Arcia",
+        "price": -325,
+        "point": 0.5
+      }
+    ]
+  }
+]
